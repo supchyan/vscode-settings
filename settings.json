@@ -17,7 +17,6 @@
     "workbench.settings.applyToAllProfiles": [
         "editor.fontFamily"
     ],
-    "editor.fontFamily": "mononoki",
     "workbench.startupEditor": "none",
     "security.workspace.trust.untrustedFiles": "open",
     "diffEditor.ignoreTrimWhitespace": false,
@@ -29,20 +28,11 @@
     "workbench.activityBar.location": "bottom",
     "workbench.sideBar.location": "right",
     "workbench.navigationControl.enabled": false,
-    "workbench.layoutControl.enabled": false,
     "window.commandCenter": false,
-    "workbench.iconTheme": "vs-nomo-dark",
     "workbench.tips.enabled": false,
     "workbench.settings.showAISearchToggle": false,
     "workbench.colorTheme": "One Dark Pro Darker",
-    "editor.inlineSuggest.fontFamily": "mononoki",
-    "debug.console.fontFamily": "mononoki",
-    "scm.inputFontFamily": "mononoki",
-    "terminal.integrated.fontFamily": "mononoki",
-    "notebook.markup.fontFamily": "mononoki",
-    "notebook.output.fontFamily": "mononoki",
-    "chat.editor.fontFamily": "mononoki",
-    "chat.fontFamily": "mononoki",
-    "editor.tokenColorCustomizations": {
-    },
+    "workbench.layoutControl.enabled": false,
+    "customvscodeuicss.css": "*{font-family: 'ProggyCleanTT', 'DotGothic16'}",
+    "workbench.iconTheme": "vs-nomo-dark"
 }

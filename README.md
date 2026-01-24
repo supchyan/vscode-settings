@@ -11,6 +11,8 @@ Install [extensitons](./ext) and [fonts](./fonts/).
 For Windows OS move `settings.json` to `C:\Users\your_username\AppData\Roaming\Code\User`.
 
 ### 🦐 Custom GUI font (en / ru / jp)
+Once after install `customvscodeuicss` do:
+
 `Ctrl + Shift + P` -> `>customvscodeuicss: Reload Configuration` -> `Restart vscode`.
 
 ### 🦐 Showcase

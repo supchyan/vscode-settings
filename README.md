@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> This mod based on bare css injection extenstion, I think I'll move to the different one in the future, so I'll update this repo right after.
+> This mod relies on a lame css injection extenstion, I think I'll move to a [different](https://github.com/drcika/apc-extension/issues/225) one (two) in the future, so I'll update this repo right after.
 
 ### 🦐 Pre-requirements
 Install [extensitons](./ext) and [fonts](./fonts/).

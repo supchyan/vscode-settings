@@ -13,5 +13,5 @@ It supports EN / RU / JP characters.
 
 ### Showcase
 <div align=center>
-  <img src="./res/showcase.png" width=100% height=auto />
+  <img src="./.res/showcase.png" width=100% height=auto />
 </div>

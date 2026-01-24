@@ -1,9 +1,11 @@
+> [!IMPORTANT]
+> This mod based on bare css injection extenstion, I think I'll move to the different one in the future, so I'll update this repo right after.
 
 ### 🦐 Pre-requirements
 Install [extensitons](./ext) and [fonts](./fonts/).
 
 ### 🦐 About `settings.json`
-> [!IMPORTANT]
+> [!TIP]
 > Don't forget about backup your original `settings.json`.
 
 For Windows OS move `settings.json` to `C:\Users\your_username\AppData\Roaming\Code\User`.

@@ -6,7 +6,7 @@ Install [extensitons](./ext) and [fonts](./fonts/).
 
 ### 🦐 About `settings.json`
 > [!TIP]
-> Don't forget about backup your original `settings.json`.
+> Don't forget to backup your original `settings.json`.
 
 For Windows OS move `settings.json` to `C:\Users\your_username\AppData\Roaming\Code\User`.
 

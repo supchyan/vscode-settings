@@ -33,6 +33,18 @@
     "workbench.settings.showAISearchToggle": false,
     "workbench.colorTheme": "One Dark Pro Darker",
     "workbench.layoutControl.enabled": false,
-    "customvscodeuicss.css": "*{font-family: 'ProggyCleanTT', 'DotGothic16'}",
-    "workbench.iconTheme": "vs-nomo-dark"
+    "workbench.iconTheme": "vs-nomo-dark",
+    "editor.fontFamily": "ProggyCleanTT",
+    "editor.codeLensFontFamily": "ProggyCleanTT",
+    "editor.inlayHints.fontFamily": "ProggyCleanTT",
+    "editor.inlineSuggest.fontFamily": "ProggyCleanTT",
+    "debug.console.fontFamily": "ProggyCleanTT",
+    "scm.inputFontFamily": "ProggyCleanTT",
+    "terminal.integrated.fontFamily": "ProggyCleanTT",
+    "notebook.markup.fontFamily": "ProggyCleanTT",
+    "notebook.output.fontFamily": "ProggyCleanTT",
+    "chat.editor.fontFamily": "ProggyCleanTT",
+    "chat.fontFamily": "ProggyCleanTT",
+    "customvscodeuicss.css": "*{font-family: 'ProggyCleanTT', 'DotGothic16';}",
+    "editor.mouseWheelZoom": true
 }

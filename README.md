@@ -8,7 +8,13 @@ Install [extensions](./extensions) and [fonts](./fonts/).
 > [!TIP]
 > Don't forget to backup original `.json` files.
 
-For Windows OS move `settings.json` and `keybindings.json` into `%AppData%\Roaming\Code\User`.
+### Install
+#### In Windows:
+* If you use vanilla vscode move `settings.json` and `keybindings.json` into `%AppData%\Roaming\Code\User`.
+* If you use vscodium move `settings.json` and `keybindings.json` into `%AppData%\Roaming\VSCodium\User`.
+
+#### In Linux
+I don't use Linux.
 
 ### Custom GUI font (en / ru / jp)
 Once after install `customvscodeuicss` do:

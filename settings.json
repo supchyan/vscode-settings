@@ -50,5 +50,7 @@
     "extensions.autoCheckUpdates": false,
     "extensions.autoUpdate": false,
     "update.enableWindowsBackgroundUpdates": false,
-    "update.mode": "none"
+    "update.mode": "none",
+    "terminal.integrated.initialHint.copilotCli": false,
+    "chat.extensionUnification.enabled": false
 }

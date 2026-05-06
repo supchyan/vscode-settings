@@ -1,14 +1,14 @@
 > [!IMPORTANT]
-> This mod relies on a lame css injection extenstion, I think I'll move to a [different](https://github.com/drcika/apc-extension/issues/225) one (two) in the future, so I'll update this repo right after.
+> This mod relies on a lame css injection extenstion, I think I'll move to a [different](https://github.com/drcika/apc-extension) one (two) in the future, so I keep this repo up to date.
 
 ### Pre-requirements
-Install [extensitons](./ext) and [fonts](./fonts/).
+Install [extensions](./extensions) and [fonts](./fonts/).
 
-### About `settings.json`
+### Before install
 > [!TIP]
-> Don't forget to backup your original `settings.json`.
+> Don't forget to backup original `.json` files.
 
-For Windows OS move `settings.json` to `C:\Users\your_username\AppData\Roaming\Code\User`.
+For Windows OS move `settings.json` and `keybindings.json` into `%AppData%\Roaming\Code\User`.
 
 ### Custom GUI font (en / ru / jp)
 Once after install `customvscodeuicss` do:

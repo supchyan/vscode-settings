@@ -46,5 +46,9 @@
     "chat.editor.fontFamily": "ProggyCleanTT",
     "chat.fontFamily": "ProggyCleanTT",
     "customvscodeuicss.css": "*{font-family: 'ProggyCleanTT', 'DotGothic16';}",
-    "editor.mouseWheelZoom": true
+    "editor.mouseWheelZoom": true,
+    "extensions.autoCheckUpdates": false,
+    "extensions.autoUpdate": false,
+    "update.enableWindowsBackgroundUpdates": false,
+    "update.mode": "none"
 }
